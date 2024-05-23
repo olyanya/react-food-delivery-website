@@ -1,4 +1,4 @@
-import "./PlacePrder.css";
+import "./PlaceOrder.css";
 
 const PlaceOrder = () => {
   return <div>Place Order</div>;
