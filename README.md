@@ -15,6 +15,10 @@ This project is a food ordering website built using React and Vite, along with H
 - HTML
 - CSS
 
+## Video
+
+You can find the live version [here](https://vimeo.com/manage/videos/951348496).
+
 ## Screenshots
 
 ![Food deivery app example](https://raw.githubusercontent.com/olyanya/react-food-delivery-website/main/src/assets/examples/food-delivery-example-1.png?token=GHSAT0AAAAAACPHGDOCSWAVZV7OF244A3HUZSWRYXQ)
