@@ -17,7 +17,7 @@ This project is a food ordering website built using React and Vite, along with H
 
 ## Video
 
-You can find the live version [here](https://vimeo.com/manage/videos/951348496).
+You can find the video [here](https://vimeo.com/manage/videos/951348496).
 
 ## Screenshots
 
